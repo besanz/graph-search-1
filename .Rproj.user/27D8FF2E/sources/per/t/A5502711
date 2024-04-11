@@ -1,0 +1,26 @@
+{
+    "id": "A5502711",
+    "path": "~/Desktop/search-template/algorithms/informed/greedy-best-first-search.R",
+    "project_path": "algorithms/informed/greedy-best-first-search.R",
+    "type": "r_source",
+    "hash": "503255549",
+    "contents": "",
+    "dirty": false,
+    "created": 1710750853895.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,27",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1676980548,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1676980548,
+    "read_only": false,
+    "read_only_alternatives": []
+}

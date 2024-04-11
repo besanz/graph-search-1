@@ -1,0 +1,26 @@
+{
+    "id": "7D9F74FB",
+    "path": "~/Desktop/search-template/problem/problem-template.R",
+    "project_path": "problem/problem-template.R",
+    "type": "r_source",
+    "hash": "3970259651",
+    "contents": "",
+    "dirty": false,
+    "created": 1710747988033.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,3",
+        "scrollLine": "12"
+    },
+    "folds": "126|58|129|0|\n132|40|138|0|\n144|89|148|2|\n161|44|187|0|\n",
+    "lastKnownWriteTime": 1712748018,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712748897723,
+    "read_only": false,
+    "read_only_alternatives": []
+}

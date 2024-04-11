@@ -1,0 +1,26 @@
+{
+    "id": "35181F58",
+    "path": "~/Downloads/search-template-2/algorithms/informed/uniform-cost-search.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "903062116",
+    "contents": "",
+    "dirty": false,
+    "created": 1711355697610.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "105,6",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1708881442,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1708881442,
+    "read_only": false,
+    "read_only_alternatives": []
+}
